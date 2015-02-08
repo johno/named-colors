@@ -17,7 +17,7 @@ Works great with Rework/PostCSS (it's recommended to also use this with uncss):
 ```
 
 The entire CSS stylesheet can be found in the `index.css`. However, within the `css/` directory, there
-are stylesheets for individual skins: `color`, `background-color`, `border`, `fill`, and `stroke`.
+are stylesheets for individual utilities: `color`, `background-color`, `border`, `fill`, and `stroke`.
 
 This module also exposes, within the `lib/` directory, some rework plugins that can be incorporated into
 an existing rework project.

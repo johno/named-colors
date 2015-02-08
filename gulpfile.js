@@ -3,6 +3,7 @@
 var fs = require('fs')
 var gulp = require('gulp')
 var concat = require('gulp-concat')
+var header = require('gulp-header')
 var rework = require('rework')
 
 var colors = require('./lib/colors')
@@ -11,9 +12,19 @@ var borderColors = require('./lib/border-colors')
 var strokeColors = require('./lib/stroke-colors')
 var fillColors = require('./lib/fill-colors')
 
+var pkg = require('./package.json');
+var banner = ['/**',
+              ' * <%= pkg.name %> - <%= pkg.description %>',
+              ' * @author <%= pkg.author %>',
+              ' * @version v<%= pkg.version %>',
+              ' * @link <%= pkg.homepage %>',
+              ' * @license <%= pkg.license %>',
+              ' */\n\n'].join('\n');
+
 gulp.task('index', ['css'], function() {
   gulp.src('css/*.css')
     .pipe(concat('index.css'))
+    .pipe(header(banner, { pkg : pkg } ))
     .pipe(gulp.dest('./'))
 })
 

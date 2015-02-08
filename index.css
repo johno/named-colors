@@ -1,3 +1,11 @@
+/**
+ * named-colors - A CSS module for utility classes for all named CSS colors (bg, color, border, svg, etc).
+ * @author John Otander
+ * @version v0.0.1
+ * @link https://github.com/johnotander/named-colors
+ * @license MIT
+ */
+
 .bg-aqua {
   background-color: aqua;
 }

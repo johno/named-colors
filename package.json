@@ -1,6 +1,6 @@
 {
   "name": "named-colors",
-  "description": "A CSS module for utility classes for all named CSS colors (bg, color, border, svg, etc).",
+  "description": "A CSS module for utility classes for all named CSS colors (bg, color, border, svg).",
   "author": "John Otander",
   "version": "0.0.1",
   "main": "index.css",
@@ -34,6 +34,7 @@
     "css-color-list": "0.0.1",
     "gulp": "^3.8.10",
     "gulp-concat": "^2.4.3",
+    "gulp-header": "^1.2.2",
     "mocha": "*",
     "rework": "^1.0.1"
   }
