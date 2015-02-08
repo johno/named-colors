@@ -2,7 +2,7 @@
   "name": "named-colors",
   "description": "A CSS module for utility classes for all named CSS colors (bg, color, border, svg).",
   "author": "John Otander",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.css",
   "directories": {
     "test": "test"
