@@ -1,0 +1,591 @@
+.aqua {
+  color: aqua;
+}
+
+.aliceblue {
+  color: aliceblue;
+}
+
+.antiquewhite {
+  color: antiquewhite;
+}
+
+.black {
+  color: black;
+}
+
+.blue {
+  color: blue;
+}
+
+.cyan {
+  color: cyan;
+}
+
+.darkblue {
+  color: darkblue;
+}
+
+.darkcyan {
+  color: darkcyan;
+}
+
+.darkgreen {
+  color: darkgreen;
+}
+
+.darkturquoise {
+  color: darkturquoise;
+}
+
+.deepskyblue {
+  color: deepskyblue;
+}
+
+.green {
+  color: green;
+}
+
+.lime {
+  color: lime;
+}
+
+.mediumblue {
+  color: mediumblue;
+}
+
+.mediumspringgreen {
+  color: mediumspringgreen;
+}
+
+.navy {
+  color: navy;
+}
+
+.springgreen {
+  color: springgreen;
+}
+
+.teal {
+  color: teal;
+}
+
+.midnightblue {
+  color: midnightblue;
+}
+
+.dodgerblue {
+  color: dodgerblue;
+}
+
+.lightseagreen {
+  color: lightseagreen;
+}
+
+.forestgreen {
+  color: forestgreen;
+}
+
+.seagreen {
+  color: seagreen;
+}
+
+.darkslategray {
+  color: darkslategray;
+}
+
+.darkslategrey {
+  color: darkslategrey;
+}
+
+.limegreen {
+  color: limegreen;
+}
+
+.mediumseagreen {
+  color: mediumseagreen;
+}
+
+.turquoise {
+  color: turquoise;
+}
+
+.royalblue {
+  color: royalblue;
+}
+
+.steelblue {
+  color: steelblue;
+}
+
+.darkslateblue {
+  color: darkslateblue;
+}
+
+.mediumturquoise {
+  color: mediumturquoise;
+}
+
+.indigo {
+  color: indigo;
+}
+
+.darkolivegreen {
+  color: darkolivegreen;
+}
+
+.cadetblue {
+  color: cadetblue;
+}
+
+.cornflowerblue {
+  color: cornflowerblue;
+}
+
+.mediumaquamarine {
+  color: mediumaquamarine;
+}
+
+.dimgray {
+  color: dimgray;
+}
+
+.dimgrey {
+  color: dimgrey;
+}
+
+.slateblue {
+  color: slateblue;
+}
+
+.olivedrab {
+  color: olivedrab;
+}
+
+.slategray {
+  color: slategray;
+}
+
+.slategrey {
+  color: slategrey;
+}
+
+.lightslategray {
+  color: lightslategray;
+}
+
+.lightslategrey {
+  color: lightslategrey;
+}
+
+.mediumslateblue {
+  color: mediumslateblue;
+}
+
+.lawngreen {
+  color: lawngreen;
+}
+
+.aquamarine {
+  color: aquamarine;
+}
+
+.chartreuse {
+  color: chartreuse;
+}
+
+.gray {
+  color: gray;
+}
+
+.grey {
+  color: grey;
+}
+
+.maroon {
+  color: maroon;
+}
+
+.olive {
+  color: olive;
+}
+
+.purple {
+  color: purple;
+}
+
+.lightskyblue {
+  color: lightskyblue;
+}
+
+.skyblue {
+  color: skyblue;
+}
+
+.blueviolet {
+  color: blueviolet;
+}
+
+.darkmagenta {
+  color: darkmagenta;
+}
+
+.darkred {
+  color: darkred;
+}
+
+.saddlebrown {
+  color: saddlebrown;
+}
+
+.darkseagreen {
+  color: darkseagreen;
+}
+
+.lightgreen {
+  color: lightgreen;
+}
+
+.mediumpurple {
+  color: mediumpurple;
+}
+
+.darkviolet {
+  color: darkviolet;
+}
+
+.palegreen {
+  color: palegreen;
+}
+
+.darkorchid {
+  color: darkorchid;
+}
+
+.yellowgreen {
+  color: yellowgreen;
+}
+
+.sienna {
+  color: sienna;
+}
+
+.brown {
+  color: brown;
+}
+
+.darkgray {
+  color: darkgray;
+}
+
+.darkgrey {
+  color: darkgrey;
+}
+
+.greenyellow {
+  color: greenyellow;
+}
+
+.lightblue {
+  color: lightblue;
+}
+
+.paleturquoise {
+  color: paleturquoise;
+}
+
+.lightsteelblue {
+  color: lightsteelblue;
+}
+
+.powderblue {
+  color: powderblue;
+}
+
+.firebrick {
+  color: firebrick;
+}
+
+.darkgoldenrod {
+  color: darkgoldenrod;
+}
+
+.mediumorchid {
+  color: mediumorchid;
+}
+
+.rosybrown {
+  color: rosybrown;
+}
+
+.darkkhaki {
+  color: darkkhaki;
+}
+
+.silver {
+  color: silver;
+}
+
+.mediumvioletred {
+  color: mediumvioletred;
+}
+
+.indianred {
+  color: indianred;
+}
+
+.peru {
+  color: peru;
+}
+
+.chocolate {
+  color: chocolate;
+}
+
+.tan {
+  color: tan;
+}
+
+.lightgray {
+  color: lightgray;
+}
+
+.lightgrey {
+  color: lightgrey;
+}
+
+.thistle {
+  color: thistle;
+}
+
+.goldenrod {
+  color: goldenrod;
+}
+
+.orchid {
+  color: orchid;
+}
+
+.palevioletred {
+  color: palevioletred;
+}
+
+.crimson {
+  color: crimson;
+}
+
+.gainsboro {
+  color: gainsboro;
+}
+
+.plum {
+  color: plum;
+}
+
+.burlywood {
+  color: burlywood;
+}
+
+.lightcyan {
+  color: lightcyan;
+}
+
+.lavender {
+  color: lavender;
+}
+
+.darksalmon {
+  color: darksalmon;
+}
+
+.palegoldenrod {
+  color: palegoldenrod;
+}
+
+.violet {
+  color: violet;
+}
+
+.azure {
+  color: azure;
+}
+
+.honeydew {
+  color: honeydew;
+}
+
+.khaki {
+  color: khaki;
+}
+
+.lightcoral {
+  color: lightcoral;
+}
+
+.sandybrown {
+  color: sandybrown;
+}
+
+.beige {
+  color: beige;
+}
+
+.mintcream {
+  color: mintcream;
+}
+
+.wheat {
+  color: wheat;
+}
+
+.whitesmoke {
+  color: whitesmoke;
+}
+
+.ghostwhite {
+  color: ghostwhite;
+}
+
+.lightgoldenrodyellow {
+  color: lightgoldenrodyellow;
+}
+
+.linen {
+  color: linen;
+}
+
+.salmon {
+  color: salmon;
+}
+
+.oldlace {
+  color: oldlace;
+}
+
+.bisque {
+  color: bisque;
+}
+
+.blanchedalmond {
+  color: blanchedalmond;
+}
+
+.coral {
+  color: coral;
+}
+
+.cornsilk {
+  color: cornsilk;
+}
+
+.darkorange {
+  color: darkorange;
+}
+
+.deeppink {
+  color: deeppink;
+}
+
+.floralwhite {
+  color: floralwhite;
+}
+
+.fuchsia {
+  color: fuchsia;
+}
+
+.gold {
+  color: gold;
+}
+
+.hotpink {
+  color: hotpink;
+}
+
+.ivory {
+  color: ivory;
+}
+
+.lavenderblush {
+  color: lavenderblush;
+}
+
+.lemonchiffon {
+  color: lemonchiffon;
+}
+
+.lightpink {
+  color: lightpink;
+}
+
+.lightsalmon {
+  color: lightsalmon;
+}
+
+.lightyellow {
+  color: lightyellow;
+}
+
+.magenta {
+  color: magenta;
+}
+
+.mistyrose {
+  color: mistyrose;
+}
+
+.moccasin {
+  color: moccasin;
+}
+
+.navajowhite {
+  color: navajowhite;
+}
+
+.orange {
+  color: orange;
+}
+
+.orangered {
+  color: orangered;
+}
+
+.papayawhip {
+  color: papayawhip;
+}
+
+.peachpuff {
+  color: peachpuff;
+}
+
+.pink {
+  color: pink;
+}
+
+.red {
+  color: red;
+}
+
+.seashell {
+  color: seashell;
+}
+
+.snow {
+  color: snow;
+}
+
+.tomato {
+  color: tomato;
+}
+
+.white {
+  color: white;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.rebeccapurple {
+  color: rebeccapurple;
+}

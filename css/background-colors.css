@@ -1,0 +1,591 @@
+.bg-aqua {
+  background-color: aqua;
+}
+
+.bg-aliceblue {
+  background-color: aliceblue;
+}
+
+.bg-antiquewhite {
+  background-color: antiquewhite;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.bg-blue {
+  background-color: blue;
+}
+
+.bg-cyan {
+  background-color: cyan;
+}
+
+.bg-darkblue {
+  background-color: darkblue;
+}
+
+.bg-darkcyan {
+  background-color: darkcyan;
+}
+
+.bg-darkgreen {
+  background-color: darkgreen;
+}
+
+.bg-darkturquoise {
+  background-color: darkturquoise;
+}
+
+.bg-deepskyblue {
+  background-color: deepskyblue;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.bg-lime {
+  background-color: lime;
+}
+
+.bg-mediumblue {
+  background-color: mediumblue;
+}
+
+.bg-mediumspringgreen {
+  background-color: mediumspringgreen;
+}
+
+.bg-navy {
+  background-color: navy;
+}
+
+.bg-springgreen {
+  background-color: springgreen;
+}
+
+.bg-teal {
+  background-color: teal;
+}
+
+.bg-midnightblue {
+  background-color: midnightblue;
+}
+
+.bg-dodgerblue {
+  background-color: dodgerblue;
+}
+
+.bg-lightseagreen {
+  background-color: lightseagreen;
+}
+
+.bg-forestgreen {
+  background-color: forestgreen;
+}
+
+.bg-seagreen {
+  background-color: seagreen;
+}
+
+.bg-darkslategray {
+  background-color: darkslategray;
+}
+
+.bg-darkslategrey {
+  background-color: darkslategrey;
+}
+
+.bg-limegreen {
+  background-color: limegreen;
+}
+
+.bg-mediumseagreen {
+  background-color: mediumseagreen;
+}
+
+.bg-turquoise {
+  background-color: turquoise;
+}
+
+.bg-royalblue {
+  background-color: royalblue;
+}
+
+.bg-steelblue {
+  background-color: steelblue;
+}
+
+.bg-darkslateblue {
+  background-color: darkslateblue;
+}
+
+.bg-mediumturquoise {
+  background-color: mediumturquoise;
+}
+
+.bg-indigo {
+  background-color: indigo;
+}
+
+.bg-darkolivegreen {
+  background-color: darkolivegreen;
+}
+
+.bg-cadetblue {
+  background-color: cadetblue;
+}
+
+.bg-cornflowerblue {
+  background-color: cornflowerblue;
+}
+
+.bg-mediumaquamarine {
+  background-color: mediumaquamarine;
+}
+
+.bg-dimgray {
+  background-color: dimgray;
+}
+
+.bg-dimgrey {
+  background-color: dimgrey;
+}
+
+.bg-slateblue {
+  background-color: slateblue;
+}
+
+.bg-olivedrab {
+  background-color: olivedrab;
+}
+
+.bg-slategray {
+  background-color: slategray;
+}
+
+.bg-slategrey {
+  background-color: slategrey;
+}
+
+.bg-lightslategray {
+  background-color: lightslategray;
+}
+
+.bg-lightslategrey {
+  background-color: lightslategrey;
+}
+
+.bg-mediumslateblue {
+  background-color: mediumslateblue;
+}
+
+.bg-lawngreen {
+  background-color: lawngreen;
+}
+
+.bg-aquamarine {
+  background-color: aquamarine;
+}
+
+.bg-chartreuse {
+  background-color: chartreuse;
+}
+
+.bg-gray {
+  background-color: gray;
+}
+
+.bg-grey {
+  background-color: grey;
+}
+
+.bg-maroon {
+  background-color: maroon;
+}
+
+.bg-olive {
+  background-color: olive;
+}
+
+.bg-purple {
+  background-color: purple;
+}
+
+.bg-lightskyblue {
+  background-color: lightskyblue;
+}
+
+.bg-skyblue {
+  background-color: skyblue;
+}
+
+.bg-blueviolet {
+  background-color: blueviolet;
+}
+
+.bg-darkmagenta {
+  background-color: darkmagenta;
+}
+
+.bg-darkred {
+  background-color: darkred;
+}
+
+.bg-saddlebrown {
+  background-color: saddlebrown;
+}
+
+.bg-darkseagreen {
+  background-color: darkseagreen;
+}
+
+.bg-lightgreen {
+  background-color: lightgreen;
+}
+
+.bg-mediumpurple {
+  background-color: mediumpurple;
+}
+
+.bg-darkviolet {
+  background-color: darkviolet;
+}
+
+.bg-palegreen {
+  background-color: palegreen;
+}
+
+.bg-darkorchid {
+  background-color: darkorchid;
+}
+
+.bg-yellowgreen {
+  background-color: yellowgreen;
+}
+
+.bg-sienna {
+  background-color: sienna;
+}
+
+.bg-brown {
+  background-color: brown;
+}
+
+.bg-darkgray {
+  background-color: darkgray;
+}
+
+.bg-darkgrey {
+  background-color: darkgrey;
+}
+
+.bg-greenyellow {
+  background-color: greenyellow;
+}
+
+.bg-lightblue {
+  background-color: lightblue;
+}
+
+.bg-paleturquoise {
+  background-color: paleturquoise;
+}
+
+.bg-lightsteelblue {
+  background-color: lightsteelblue;
+}
+
+.bg-powderblue {
+  background-color: powderblue;
+}
+
+.bg-firebrick {
+  background-color: firebrick;
+}
+
+.bg-darkgoldenrod {
+  background-color: darkgoldenrod;
+}
+
+.bg-mediumorchid {
+  background-color: mediumorchid;
+}
+
+.bg-rosybrown {
+  background-color: rosybrown;
+}
+
+.bg-darkkhaki {
+  background-color: darkkhaki;
+}
+
+.bg-silver {
+  background-color: silver;
+}
+
+.bg-mediumvioletred {
+  background-color: mediumvioletred;
+}
+
+.bg-indianred {
+  background-color: indianred;
+}
+
+.bg-peru {
+  background-color: peru;
+}
+
+.bg-chocolate {
+  background-color: chocolate;
+}
+
+.bg-tan {
+  background-color: tan;
+}
+
+.bg-lightgray {
+  background-color: lightgray;
+}
+
+.bg-lightgrey {
+  background-color: lightgrey;
+}
+
+.bg-thistle {
+  background-color: thistle;
+}
+
+.bg-goldenrod {
+  background-color: goldenrod;
+}
+
+.bg-orchid {
+  background-color: orchid;
+}
+
+.bg-palevioletred {
+  background-color: palevioletred;
+}
+
+.bg-crimson {
+  background-color: crimson;
+}
+
+.bg-gainsboro {
+  background-color: gainsboro;
+}
+
+.bg-plum {
+  background-color: plum;
+}
+
+.bg-burlywood {
+  background-color: burlywood;
+}
+
+.bg-lightcyan {
+  background-color: lightcyan;
+}
+
+.bg-lavender {
+  background-color: lavender;
+}
+
+.bg-darksalmon {
+  background-color: darksalmon;
+}
+
+.bg-palegoldenrod {
+  background-color: palegoldenrod;
+}
+
+.bg-violet {
+  background-color: violet;
+}
+
+.bg-azure {
+  background-color: azure;
+}
+
+.bg-honeydew {
+  background-color: honeydew;
+}
+
+.bg-khaki {
+  background-color: khaki;
+}
+
+.bg-lightcoral {
+  background-color: lightcoral;
+}
+
+.bg-sandybrown {
+  background-color: sandybrown;
+}
+
+.bg-beige {
+  background-color: beige;
+}
+
+.bg-mintcream {
+  background-color: mintcream;
+}
+
+.bg-wheat {
+  background-color: wheat;
+}
+
+.bg-whitesmoke {
+  background-color: whitesmoke;
+}
+
+.bg-ghostwhite {
+  background-color: ghostwhite;
+}
+
+.bg-lightgoldenrodyellow {
+  background-color: lightgoldenrodyellow;
+}
+
+.bg-linen {
+  background-color: linen;
+}
+
+.bg-salmon {
+  background-color: salmon;
+}
+
+.bg-oldlace {
+  background-color: oldlace;
+}
+
+.bg-bisque {
+  background-color: bisque;
+}
+
+.bg-blanchedalmond {
+  background-color: blanchedalmond;
+}
+
+.bg-coral {
+  background-color: coral;
+}
+
+.bg-cornsilk {
+  background-color: cornsilk;
+}
+
+.bg-darkorange {
+  background-color: darkorange;
+}
+
+.bg-deeppink {
+  background-color: deeppink;
+}
+
+.bg-floralwhite {
+  background-color: floralwhite;
+}
+
+.bg-fuchsia {
+  background-color: fuchsia;
+}
+
+.bg-gold {
+  background-color: gold;
+}
+
+.bg-hotpink {
+  background-color: hotpink;
+}
+
+.bg-ivory {
+  background-color: ivory;
+}
+
+.bg-lavenderblush {
+  background-color: lavenderblush;
+}
+
+.bg-lemonchiffon {
+  background-color: lemonchiffon;
+}
+
+.bg-lightpink {
+  background-color: lightpink;
+}
+
+.bg-lightsalmon {
+  background-color: lightsalmon;
+}
+
+.bg-lightyellow {
+  background-color: lightyellow;
+}
+
+.bg-magenta {
+  background-color: magenta;
+}
+
+.bg-mistyrose {
+  background-color: mistyrose;
+}
+
+.bg-moccasin {
+  background-color: moccasin;
+}
+
+.bg-navajowhite {
+  background-color: navajowhite;
+}
+
+.bg-orange {
+  background-color: orange;
+}
+
+.bg-orangered {
+  background-color: orangered;
+}
+
+.bg-papayawhip {
+  background-color: papayawhip;
+}
+
+.bg-peachpuff {
+  background-color: peachpuff;
+}
+
+.bg-pink {
+  background-color: pink;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-seashell {
+  background-color: seashell;
+}
+
+.bg-snow {
+  background-color: snow;
+}
+
+.bg-tomato {
+  background-color: tomato;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.bg-rebeccapurple {
+  background-color: rebeccapurple;
+}

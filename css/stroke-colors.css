@@ -1,0 +1,591 @@
+.stroke-aqua {
+  stroke: aqua;
+}
+
+.stroke-aliceblue {
+  stroke: aliceblue;
+}
+
+.stroke-antiquewhite {
+  stroke: antiquewhite;
+}
+
+.stroke-black {
+  stroke: black;
+}
+
+.stroke-blue {
+  stroke: blue;
+}
+
+.stroke-cyan {
+  stroke: cyan;
+}
+
+.stroke-darkblue {
+  stroke: darkblue;
+}
+
+.stroke-darkcyan {
+  stroke: darkcyan;
+}
+
+.stroke-darkgreen {
+  stroke: darkgreen;
+}
+
+.stroke-darkturquoise {
+  stroke: darkturquoise;
+}
+
+.stroke-deepskyblue {
+  stroke: deepskyblue;
+}
+
+.stroke-green {
+  stroke: green;
+}
+
+.stroke-lime {
+  stroke: lime;
+}
+
+.stroke-mediumblue {
+  stroke: mediumblue;
+}
+
+.stroke-mediumspringgreen {
+  stroke: mediumspringgreen;
+}
+
+.stroke-navy {
+  stroke: navy;
+}
+
+.stroke-springgreen {
+  stroke: springgreen;
+}
+
+.stroke-teal {
+  stroke: teal;
+}
+
+.stroke-midnightblue {
+  stroke: midnightblue;
+}
+
+.stroke-dodgerblue {
+  stroke: dodgerblue;
+}
+
+.stroke-lightseagreen {
+  stroke: lightseagreen;
+}
+
+.stroke-forestgreen {
+  stroke: forestgreen;
+}
+
+.stroke-seagreen {
+  stroke: seagreen;
+}
+
+.stroke-darkslategray {
+  stroke: darkslategray;
+}
+
+.stroke-darkslategrey {
+  stroke: darkslategrey;
+}
+
+.stroke-limegreen {
+  stroke: limegreen;
+}
+
+.stroke-mediumseagreen {
+  stroke: mediumseagreen;
+}
+
+.stroke-turquoise {
+  stroke: turquoise;
+}
+
+.stroke-royalblue {
+  stroke: royalblue;
+}
+
+.stroke-steelblue {
+  stroke: steelblue;
+}
+
+.stroke-darkslateblue {
+  stroke: darkslateblue;
+}
+
+.stroke-mediumturquoise {
+  stroke: mediumturquoise;
+}
+
+.stroke-indigo {
+  stroke: indigo;
+}
+
+.stroke-darkolivegreen {
+  stroke: darkolivegreen;
+}
+
+.stroke-cadetblue {
+  stroke: cadetblue;
+}
+
+.stroke-cornflowerblue {
+  stroke: cornflowerblue;
+}
+
+.stroke-mediumaquamarine {
+  stroke: mediumaquamarine;
+}
+
+.stroke-dimgray {
+  stroke: dimgray;
+}
+
+.stroke-dimgrey {
+  stroke: dimgrey;
+}
+
+.stroke-slateblue {
+  stroke: slateblue;
+}
+
+.stroke-olivedrab {
+  stroke: olivedrab;
+}
+
+.stroke-slategray {
+  stroke: slategray;
+}
+
+.stroke-slategrey {
+  stroke: slategrey;
+}
+
+.stroke-lightslategray {
+  stroke: lightslategray;
+}
+
+.stroke-lightslategrey {
+  stroke: lightslategrey;
+}
+
+.stroke-mediumslateblue {
+  stroke: mediumslateblue;
+}
+
+.stroke-lawngreen {
+  stroke: lawngreen;
+}
+
+.stroke-aquamarine {
+  stroke: aquamarine;
+}
+
+.stroke-chartreuse {
+  stroke: chartreuse;
+}
+
+.stroke-gray {
+  stroke: gray;
+}
+
+.stroke-grey {
+  stroke: grey;
+}
+
+.stroke-maroon {
+  stroke: maroon;
+}
+
+.stroke-olive {
+  stroke: olive;
+}
+
+.stroke-purple {
+  stroke: purple;
+}
+
+.stroke-lightskyblue {
+  stroke: lightskyblue;
+}
+
+.stroke-skyblue {
+  stroke: skyblue;
+}
+
+.stroke-blueviolet {
+  stroke: blueviolet;
+}
+
+.stroke-darkmagenta {
+  stroke: darkmagenta;
+}
+
+.stroke-darkred {
+  stroke: darkred;
+}
+
+.stroke-saddlebrown {
+  stroke: saddlebrown;
+}
+
+.stroke-darkseagreen {
+  stroke: darkseagreen;
+}
+
+.stroke-lightgreen {
+  stroke: lightgreen;
+}
+
+.stroke-mediumpurple {
+  stroke: mediumpurple;
+}
+
+.stroke-darkviolet {
+  stroke: darkviolet;
+}
+
+.stroke-palegreen {
+  stroke: palegreen;
+}
+
+.stroke-darkorchid {
+  stroke: darkorchid;
+}
+
+.stroke-yellowgreen {
+  stroke: yellowgreen;
+}
+
+.stroke-sienna {
+  stroke: sienna;
+}
+
+.stroke-brown {
+  stroke: brown;
+}
+
+.stroke-darkgray {
+  stroke: darkgray;
+}
+
+.stroke-darkgrey {
+  stroke: darkgrey;
+}
+
+.stroke-greenyellow {
+  stroke: greenyellow;
+}
+
+.stroke-lightblue {
+  stroke: lightblue;
+}
+
+.stroke-paleturquoise {
+  stroke: paleturquoise;
+}
+
+.stroke-lightsteelblue {
+  stroke: lightsteelblue;
+}
+
+.stroke-powderblue {
+  stroke: powderblue;
+}
+
+.stroke-firebrick {
+  stroke: firebrick;
+}
+
+.stroke-darkgoldenrod {
+  stroke: darkgoldenrod;
+}
+
+.stroke-mediumorchid {
+  stroke: mediumorchid;
+}
+
+.stroke-rosybrown {
+  stroke: rosybrown;
+}
+
+.stroke-darkkhaki {
+  stroke: darkkhaki;
+}
+
+.stroke-silver {
+  stroke: silver;
+}
+
+.stroke-mediumvioletred {
+  stroke: mediumvioletred;
+}
+
+.stroke-indianred {
+  stroke: indianred;
+}
+
+.stroke-peru {
+  stroke: peru;
+}
+
+.stroke-chocolate {
+  stroke: chocolate;
+}
+
+.stroke-tan {
+  stroke: tan;
+}
+
+.stroke-lightgray {
+  stroke: lightgray;
+}
+
+.stroke-lightgrey {
+  stroke: lightgrey;
+}
+
+.stroke-thistle {
+  stroke: thistle;
+}
+
+.stroke-goldenrod {
+  stroke: goldenrod;
+}
+
+.stroke-orchid {
+  stroke: orchid;
+}
+
+.stroke-palevioletred {
+  stroke: palevioletred;
+}
+
+.stroke-crimson {
+  stroke: crimson;
+}
+
+.stroke-gainsboro {
+  stroke: gainsboro;
+}
+
+.stroke-plum {
+  stroke: plum;
+}
+
+.stroke-burlywood {
+  stroke: burlywood;
+}
+
+.stroke-lightcyan {
+  stroke: lightcyan;
+}
+
+.stroke-lavender {
+  stroke: lavender;
+}
+
+.stroke-darksalmon {
+  stroke: darksalmon;
+}
+
+.stroke-palegoldenrod {
+  stroke: palegoldenrod;
+}
+
+.stroke-violet {
+  stroke: violet;
+}
+
+.stroke-azure {
+  stroke: azure;
+}
+
+.stroke-honeydew {
+  stroke: honeydew;
+}
+
+.stroke-khaki {
+  stroke: khaki;
+}
+
+.stroke-lightcoral {
+  stroke: lightcoral;
+}
+
+.stroke-sandybrown {
+  stroke: sandybrown;
+}
+
+.stroke-beige {
+  stroke: beige;
+}
+
+.stroke-mintcream {
+  stroke: mintcream;
+}
+
+.stroke-wheat {
+  stroke: wheat;
+}
+
+.stroke-whitesmoke {
+  stroke: whitesmoke;
+}
+
+.stroke-ghostwhite {
+  stroke: ghostwhite;
+}
+
+.stroke-lightgoldenrodyellow {
+  stroke: lightgoldenrodyellow;
+}
+
+.stroke-linen {
+  stroke: linen;
+}
+
+.stroke-salmon {
+  stroke: salmon;
+}
+
+.stroke-oldlace {
+  stroke: oldlace;
+}
+
+.stroke-bisque {
+  stroke: bisque;
+}
+
+.stroke-blanchedalmond {
+  stroke: blanchedalmond;
+}
+
+.stroke-coral {
+  stroke: coral;
+}
+
+.stroke-cornsilk {
+  stroke: cornsilk;
+}
+
+.stroke-darkorange {
+  stroke: darkorange;
+}
+
+.stroke-deeppink {
+  stroke: deeppink;
+}
+
+.stroke-floralwhite {
+  stroke: floralwhite;
+}
+
+.stroke-fuchsia {
+  stroke: fuchsia;
+}
+
+.stroke-gold {
+  stroke: gold;
+}
+
+.stroke-hotpink {
+  stroke: hotpink;
+}
+
+.stroke-ivory {
+  stroke: ivory;
+}
+
+.stroke-lavenderblush {
+  stroke: lavenderblush;
+}
+
+.stroke-lemonchiffon {
+  stroke: lemonchiffon;
+}
+
+.stroke-lightpink {
+  stroke: lightpink;
+}
+
+.stroke-lightsalmon {
+  stroke: lightsalmon;
+}
+
+.stroke-lightyellow {
+  stroke: lightyellow;
+}
+
+.stroke-magenta {
+  stroke: magenta;
+}
+
+.stroke-mistyrose {
+  stroke: mistyrose;
+}
+
+.stroke-moccasin {
+  stroke: moccasin;
+}
+
+.stroke-navajowhite {
+  stroke: navajowhite;
+}
+
+.stroke-orange {
+  stroke: orange;
+}
+
+.stroke-orangered {
+  stroke: orangered;
+}
+
+.stroke-papayawhip {
+  stroke: papayawhip;
+}
+
+.stroke-peachpuff {
+  stroke: peachpuff;
+}
+
+.stroke-pink {
+  stroke: pink;
+}
+
+.stroke-red {
+  stroke: red;
+}
+
+.stroke-seashell {
+  stroke: seashell;
+}
+
+.stroke-snow {
+  stroke: snow;
+}
+
+.stroke-tomato {
+  stroke: tomato;
+}
+
+.stroke-white {
+  stroke: white;
+}
+
+.stroke-yellow {
+  stroke: yellow;
+}
+
+.stroke-rebeccapurple {
+  stroke: rebeccapurple;
+}

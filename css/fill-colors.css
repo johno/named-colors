@@ -1,0 +1,591 @@
+.fill-aqua {
+  fill: aqua;
+}
+
+.fill-aliceblue {
+  fill: aliceblue;
+}
+
+.fill-antiquewhite {
+  fill: antiquewhite;
+}
+
+.fill-black {
+  fill: black;
+}
+
+.fill-blue {
+  fill: blue;
+}
+
+.fill-cyan {
+  fill: cyan;
+}
+
+.fill-darkblue {
+  fill: darkblue;
+}
+
+.fill-darkcyan {
+  fill: darkcyan;
+}
+
+.fill-darkgreen {
+  fill: darkgreen;
+}
+
+.fill-darkturquoise {
+  fill: darkturquoise;
+}
+
+.fill-deepskyblue {
+  fill: deepskyblue;
+}
+
+.fill-green {
+  fill: green;
+}
+
+.fill-lime {
+  fill: lime;
+}
+
+.fill-mediumblue {
+  fill: mediumblue;
+}
+
+.fill-mediumspringgreen {
+  fill: mediumspringgreen;
+}
+
+.fill-navy {
+  fill: navy;
+}
+
+.fill-springgreen {
+  fill: springgreen;
+}
+
+.fill-teal {
+  fill: teal;
+}
+
+.fill-midnightblue {
+  fill: midnightblue;
+}
+
+.fill-dodgerblue {
+  fill: dodgerblue;
+}
+
+.fill-lightseagreen {
+  fill: lightseagreen;
+}
+
+.fill-forestgreen {
+  fill: forestgreen;
+}
+
+.fill-seagreen {
+  fill: seagreen;
+}
+
+.fill-darkslategray {
+  fill: darkslategray;
+}
+
+.fill-darkslategrey {
+  fill: darkslategrey;
+}
+
+.fill-limegreen {
+  fill: limegreen;
+}
+
+.fill-mediumseagreen {
+  fill: mediumseagreen;
+}
+
+.fill-turquoise {
+  fill: turquoise;
+}
+
+.fill-royalblue {
+  fill: royalblue;
+}
+
+.fill-steelblue {
+  fill: steelblue;
+}
+
+.fill-darkslateblue {
+  fill: darkslateblue;
+}
+
+.fill-mediumturquoise {
+  fill: mediumturquoise;
+}
+
+.fill-indigo {
+  fill: indigo;
+}
+
+.fill-darkolivegreen {
+  fill: darkolivegreen;
+}
+
+.fill-cadetblue {
+  fill: cadetblue;
+}
+
+.fill-cornflowerblue {
+  fill: cornflowerblue;
+}
+
+.fill-mediumaquamarine {
+  fill: mediumaquamarine;
+}
+
+.fill-dimgray {
+  fill: dimgray;
+}
+
+.fill-dimgrey {
+  fill: dimgrey;
+}
+
+.fill-slateblue {
+  fill: slateblue;
+}
+
+.fill-olivedrab {
+  fill: olivedrab;
+}
+
+.fill-slategray {
+  fill: slategray;
+}
+
+.fill-slategrey {
+  fill: slategrey;
+}
+
+.fill-lightslategray {
+  fill: lightslategray;
+}
+
+.fill-lightslategrey {
+  fill: lightslategrey;
+}
+
+.fill-mediumslateblue {
+  fill: mediumslateblue;
+}
+
+.fill-lawngreen {
+  fill: lawngreen;
+}
+
+.fill-aquamarine {
+  fill: aquamarine;
+}
+
+.fill-chartreuse {
+  fill: chartreuse;
+}
+
+.fill-gray {
+  fill: gray;
+}
+
+.fill-grey {
+  fill: grey;
+}
+
+.fill-maroon {
+  fill: maroon;
+}
+
+.fill-olive {
+  fill: olive;
+}
+
+.fill-purple {
+  fill: purple;
+}
+
+.fill-lightskyblue {
+  fill: lightskyblue;
+}
+
+.fill-skyblue {
+  fill: skyblue;
+}
+
+.fill-blueviolet {
+  fill: blueviolet;
+}
+
+.fill-darkmagenta {
+  fill: darkmagenta;
+}
+
+.fill-darkred {
+  fill: darkred;
+}
+
+.fill-saddlebrown {
+  fill: saddlebrown;
+}
+
+.fill-darkseagreen {
+  fill: darkseagreen;
+}
+
+.fill-lightgreen {
+  fill: lightgreen;
+}
+
+.fill-mediumpurple {
+  fill: mediumpurple;
+}
+
+.fill-darkviolet {
+  fill: darkviolet;
+}
+
+.fill-palegreen {
+  fill: palegreen;
+}
+
+.fill-darkorchid {
+  fill: darkorchid;
+}
+
+.fill-yellowgreen {
+  fill: yellowgreen;
+}
+
+.fill-sienna {
+  fill: sienna;
+}
+
+.fill-brown {
+  fill: brown;
+}
+
+.fill-darkgray {
+  fill: darkgray;
+}
+
+.fill-darkgrey {
+  fill: darkgrey;
+}
+
+.fill-greenyellow {
+  fill: greenyellow;
+}
+
+.fill-lightblue {
+  fill: lightblue;
+}
+
+.fill-paleturquoise {
+  fill: paleturquoise;
+}
+
+.fill-lightsteelblue {
+  fill: lightsteelblue;
+}
+
+.fill-powderblue {
+  fill: powderblue;
+}
+
+.fill-firebrick {
+  fill: firebrick;
+}
+
+.fill-darkgoldenrod {
+  fill: darkgoldenrod;
+}
+
+.fill-mediumorchid {
+  fill: mediumorchid;
+}
+
+.fill-rosybrown {
+  fill: rosybrown;
+}
+
+.fill-darkkhaki {
+  fill: darkkhaki;
+}
+
+.fill-silver {
+  fill: silver;
+}
+
+.fill-mediumvioletred {
+  fill: mediumvioletred;
+}
+
+.fill-indianred {
+  fill: indianred;
+}
+
+.fill-peru {
+  fill: peru;
+}
+
+.fill-chocolate {
+  fill: chocolate;
+}
+
+.fill-tan {
+  fill: tan;
+}
+
+.fill-lightgray {
+  fill: lightgray;
+}
+
+.fill-lightgrey {
+  fill: lightgrey;
+}
+
+.fill-thistle {
+  fill: thistle;
+}
+
+.fill-goldenrod {
+  fill: goldenrod;
+}
+
+.fill-orchid {
+  fill: orchid;
+}
+
+.fill-palevioletred {
+  fill: palevioletred;
+}
+
+.fill-crimson {
+  fill: crimson;
+}
+
+.fill-gainsboro {
+  fill: gainsboro;
+}
+
+.fill-plum {
+  fill: plum;
+}
+
+.fill-burlywood {
+  fill: burlywood;
+}
+
+.fill-lightcyan {
+  fill: lightcyan;
+}
+
+.fill-lavender {
+  fill: lavender;
+}
+
+.fill-darksalmon {
+  fill: darksalmon;
+}
+
+.fill-palegoldenrod {
+  fill: palegoldenrod;
+}
+
+.fill-violet {
+  fill: violet;
+}
+
+.fill-azure {
+  fill: azure;
+}
+
+.fill-honeydew {
+  fill: honeydew;
+}
+
+.fill-khaki {
+  fill: khaki;
+}
+
+.fill-lightcoral {
+  fill: lightcoral;
+}
+
+.fill-sandybrown {
+  fill: sandybrown;
+}
+
+.fill-beige {
+  fill: beige;
+}
+
+.fill-mintcream {
+  fill: mintcream;
+}
+
+.fill-wheat {
+  fill: wheat;
+}
+
+.fill-whitesmoke {
+  fill: whitesmoke;
+}
+
+.fill-ghostwhite {
+  fill: ghostwhite;
+}
+
+.fill-lightgoldenrodyellow {
+  fill: lightgoldenrodyellow;
+}
+
+.fill-linen {
+  fill: linen;
+}
+
+.fill-salmon {
+  fill: salmon;
+}
+
+.fill-oldlace {
+  fill: oldlace;
+}
+
+.fill-bisque {
+  fill: bisque;
+}
+
+.fill-blanchedalmond {
+  fill: blanchedalmond;
+}
+
+.fill-coral {
+  fill: coral;
+}
+
+.fill-cornsilk {
+  fill: cornsilk;
+}
+
+.fill-darkorange {
+  fill: darkorange;
+}
+
+.fill-deeppink {
+  fill: deeppink;
+}
+
+.fill-floralwhite {
+  fill: floralwhite;
+}
+
+.fill-fuchsia {
+  fill: fuchsia;
+}
+
+.fill-gold {
+  fill: gold;
+}
+
+.fill-hotpink {
+  fill: hotpink;
+}
+
+.fill-ivory {
+  fill: ivory;
+}
+
+.fill-lavenderblush {
+  fill: lavenderblush;
+}
+
+.fill-lemonchiffon {
+  fill: lemonchiffon;
+}
+
+.fill-lightpink {
+  fill: lightpink;
+}
+
+.fill-lightsalmon {
+  fill: lightsalmon;
+}
+
+.fill-lightyellow {
+  fill: lightyellow;
+}
+
+.fill-magenta {
+  fill: magenta;
+}
+
+.fill-mistyrose {
+  fill: mistyrose;
+}
+
+.fill-moccasin {
+  fill: moccasin;
+}
+
+.fill-navajowhite {
+  fill: navajowhite;
+}
+
+.fill-orange {
+  fill: orange;
+}
+
+.fill-orangered {
+  fill: orangered;
+}
+
+.fill-papayawhip {
+  fill: papayawhip;
+}
+
+.fill-peachpuff {
+  fill: peachpuff;
+}
+
+.fill-pink {
+  fill: pink;
+}
+
+.fill-red {
+  fill: red;
+}
+
+.fill-seashell {
+  fill: seashell;
+}
+
+.fill-snow {
+  fill: snow;
+}
+
+.fill-tomato {
+  fill: tomato;
+}
+
+.fill-white {
+  fill: white;
+}
+
+.fill-yellow {
+  fill: yellow;
+}
+
+.fill-rebeccapurple {
+  fill: rebeccapurple;
+}
