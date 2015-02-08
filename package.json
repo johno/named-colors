@@ -1,0 +1,29 @@
+{
+  "name": "named-colors",
+  "description": "A CSS module for utility classes for all named CSS colors (bg, color, border, svg, etc).",
+  "author": "John Otander",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnotander/named-colors.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnotander/named-colors/issues"
+  },
+  "homepage": "https://github.com/johnotander/named-colors",
+  "dependencies": {},
+  "devDependencies": {
+    "css-color-list": "0.0.1",
+    "mocha": "*",
+    "rework": "^1.0.1"
+  }
+}
