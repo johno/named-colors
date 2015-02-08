@@ -3,7 +3,7 @@
   "description": "A CSS module for utility classes for all named CSS colors (bg, color, border, svg, etc).",
   "author": "John Otander",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "index.css",
   "directories": {
     "test": "test"
   },
@@ -14,7 +14,16 @@
     "type": "git",
     "url": "https://github.com/johnotander/named-colors.git"
   },
-  "keywords": [],
+  "keywords": [
+    "css",
+    "colors",
+    "named colors",
+    "border",
+    "text",
+    "background",
+    "fill",
+    "stroke"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/johnotander/named-colors/issues"
@@ -23,6 +32,8 @@
   "dependencies": {},
   "devDependencies": {
     "css-color-list": "0.0.1",
+    "gulp": "^3.8.10",
+    "gulp-concat": "^2.4.3",
     "mocha": "*",
     "rework": "^1.0.1"
   }
