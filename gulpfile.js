@@ -12,14 +12,14 @@ var borderColors = require('./lib/border-colors')
 var strokeColors = require('./lib/stroke-colors')
 var fillColors = require('./lib/fill-colors')
 
-var pkg = require('./package.json');
+var pkg = require('./package.json')
 var banner = ['/**',
               ' * <%= pkg.name %> - <%= pkg.description %>',
               ' * @author <%= pkg.author %>',
               ' * @version v<%= pkg.version %>',
               ' * @link <%= pkg.homepage %>',
               ' * @license <%= pkg.license %>',
-              ' */\n\n'].join('\n');
+              ' */\n\n'].join('\n')
 
 gulp.task('index', ['css'], function() {
   gulp.src('css/*.css')
